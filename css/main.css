@@ -364,15 +364,6 @@ section{
 .pho-screen>img:nth-child(3){top: 253px; left: 61px;}
 .pho-screen>img:nth-child(4){top: 253px; left: 118px;}
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-=======
 /*SEO-search*/
 #search-seo{
 	position: absolute;
@@ -382,7 +373,6 @@ section{
 	opacity: 0;
 	_filter:alpha(opacity=0);
 }
->>>>>>> b4404ad357066e3b387d14a9703e7329e24b59f6
 
 @-webkit-keyframes arrow {
 	0%,100% {
